@@ -1,0 +1,36 @@
+div {
+  text-align: center;
+  border-radius: 25px;
+}
+
+table {
+  border: 2px solid;
+}
+
+h1 {
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  left: 0;
+  bottom: 0;
+  color: black;
+  text-align: center;
+  background-color: green;
+}
+
+.table {
+  padding-left: 100px;
+}
+
+thead {
+  background-color: green;
+}
+
+label {
+  padding-right: 10px;
+}
